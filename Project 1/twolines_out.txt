@@ -1,0 +1,4 @@
+FAA Site     Short Name  Airport Name                               City                               ST  Latitude        Longitude        Tower
+========     ==========  ============                               ====                               ==  ========        =========        =====
+aaaaaaaaa    bbbbbb      ccccccccccccccccccccccccccc                ddddddddddddddddddddddddddd        ee  iiiiiiiiiiiii   jjjjjjjjjjjj     o
+AAAAAAAAA    BBBBBB      CCCCCCCCCCCCCCCCCCCCCCCCCCC                DDDDDDDDDDDDDDDDDDDDDDDDDDD        EE  IIIIIIIIIIIII   JJJJJJJJJJJJ     O

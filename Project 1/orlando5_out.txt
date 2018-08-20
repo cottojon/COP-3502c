@@ -1,0 +1,7 @@
+FAA Site     Short Name  Airport Name                               City                               ST  Latitude        Longitude        Tower
+========     ==========  ============                               ====                               ==  ========        =========        =====
+03406.20*H   2FD7        AIR ORLANDO                                ORLANDO                            FL  28-26-08.0210N  081-28-23.2590W  N
+03406.36*H   2FL5        BROOKSVILLE INTL AIRWAYS- INC              ORLANDO                            FL  28-25-26.0000N  081-27-35.0000W  N
+03406.18*H   32FL        MEYER                                      ORLANDO                            FL  28-30-05.0120N  081-26-39.2560W  N
+03406.11*H   37FA        FLORIDA HOSPITAL                           ORLANDO                            FL  28-34-32.0020N  081-22-06.2490W  N
+03406.31*H   3FD5        ARNOLD PALMER HOSPITAL                     ORLANDO                            FL  28-31-21.0090N  081-22-49.2520W  N
