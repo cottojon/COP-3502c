@@ -13,7 +13,7 @@ explicit order of the data fields and the desired outputs are defined in the "Sp
 The first part of ETL is extraction. The filename of a text file will be passed to your program via the command
 line. The data contained in that file is read into memory (i.e., extracted).
 
-## 2 Transformation
+## 2. Transformation
 The second part of ETL is transformation. A list of comma separated values is convenient for text files, but
 it is far less convenient in memory. Once the data for a single airport has been read into a buffer, you will
 need to parse the buffer based on the commas between the data fields. The parsed data will then be used to
@@ -40,7 +40,7 @@ char controlTower;//Control Tower, this is a single character (Y/N)
 
 } airPdata;
 
-## 3 Loading
+## 3. Loading
 Finally, the third part of ETL is loading. With the data now in an airPdata structure it can be easily
 accessed by functions and/or other programs (i.e., loaded). For this assignment, you will use pass the
 airPdata structure to a function ( PrintData(airPdata airport) ) that will print the data to
