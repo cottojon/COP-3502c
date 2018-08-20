@@ -25,7 +25,7 @@ below. The input file data is defined below.
 
 1.1.1 Command Line arguments
 
- The input file name and sort parameters are input from the command line as
+The input file name and sort parameters are input from the command line as
 shown below.
 
 
@@ -35,5 +35,5 @@ hw3Sort filename.ext sortParameter
 
 
 
-####input csv files
+####  input csv files
 Sadly I misplaced all csv files but orlando.csv
